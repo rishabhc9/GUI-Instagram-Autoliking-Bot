@@ -3,7 +3,7 @@
 ![Screenshot 2021-05-01 at 7 13 16 PM 2](https://user-images.githubusercontent.com/61555936/116784525-4563c880-aab2-11eb-9d89-20511a594f99.jpeg)
 
 ## Installation
-Run The Following Command To Install The Library Required To Run This Project.
+Run the following command to install the library Rrequired for this project.
 ```bash
 pip install selenium
 ```
