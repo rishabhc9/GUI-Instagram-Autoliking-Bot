@@ -1,5 +1,5 @@
 # GUI Instagram Autoliking Bot
- A Tkinter and Selenium Based GUI Instagram Hahtag Posts Autoliking Bot
+ A Tkinter & Selenium Based GUI Instagram Autoliking Bot That Searches For User Given Hashtags & Likes The Posts Containing The Same Hashtags.
 
 ![Screenshot 2021-05-01 at 7 13 16 PM 2](https://user-images.githubusercontent.com/61555936/116784525-4563c880-aab2-11eb-9d89-20511a594f99.jpeg)
 
